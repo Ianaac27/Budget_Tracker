@@ -7,7 +7,7 @@ The Budget Tracker is an app that allows users to track their transactions to he
 
 * [License](#license)
 * [Contributing](#contributing)
-* [Screenshots](#screenshots)
+* [Screenshot](#screenshot)
 * [Link](#link)
 * [Questions](#questions)
 
@@ -23,10 +23,10 @@ Ianaac27
 
 Trilogy Education Services
 
-# Screenshots
-Here are mocks of the Budget Tracker.
+# Screenshot
+Here is a mock of the Budget Tracker.
 
 ![Budget_Tracker](public/screenshot.png)
 
 # Link
-Take a look at the live version through Heroku [here.](https://workout-tracker-ifc.herokuapp.com/)
+Take a look at the live version through Heroku [here.](https://budget-tracker-ifc.herokuapp.com/)
